@@ -1,0 +1,7 @@
+{
+  "name": "node-express-learning",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
