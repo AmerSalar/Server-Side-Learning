@@ -14,5 +14,6 @@ console.log("The app is starting...");
 
 // require("./File-system/async-management");
 // require("./File-system/promise");
+require("./File-system/streaming");
 
 // require("./Events/basicEvents");

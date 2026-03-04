@@ -9,3 +9,5 @@ Day 2: More on module & require, i learned that require can return an object of 
 Day 3: Exploring the OS, and PATH modules
 
 Day 4: Exploring HTTP, FS modules. learned to create server and use request and response. dealt with promises and sync-async way of handling execution flow.
+
+Day 5: Learned about streams, which are writable or readables that are used for larger files and larger data flows. we can read large data in smaller chunks using streams.
